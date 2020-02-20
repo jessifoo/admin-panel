@@ -1,0 +1,17 @@
+form input {
+  margin-bottom: 8px;
+}
+
+.td-width {
+  width: 200px;
+}
+
+.schedule-border {
+  border-right: 1px solid #ddd;
+  padding: 0 5px;
+}
+
+.sp-border {
+  border: 1px solid #ddd;
+  padding: 5px;
+}

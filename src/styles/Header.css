@@ -1,0 +1,22 @@
+.header {
+  border-bottom: 1px solid grey;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+.logoutButton {
+  float: right;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+@media (min-width: 768px) {
+  .navbar-header {
+    float: none;
+  }
+}
+

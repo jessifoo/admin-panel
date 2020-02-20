@@ -1,0 +1,10 @@
+.sidebar {
+  border-right: 1px solid grey;
+  width: 250px;
+  float: left;
+  height: 500px;
+}
+
+.sidebar ul li {
+  border-bottom: 1px solid #e7e7e7;
+}
